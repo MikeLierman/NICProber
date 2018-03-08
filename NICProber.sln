@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NICProber", "NICProber\NICProber.csproj", "{60728B98-96D9-4484-B7EB-CF04BDD12955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60728B98-96D9-4484-B7EB-CF04BDD12955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60728B98-96D9-4484-B7EB-CF04BDD12955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60728B98-96D9-4484-B7EB-CF04BDD12955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60728B98-96D9-4484-B7EB-CF04BDD12955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D04C3C-69DF-47C5-B7E7-325C36D10558}
+	EndGlobalSection
+EndGlobal
